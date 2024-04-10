@@ -20,7 +20,7 @@ Summoning LLMs requires powerful resources, bestowed by the gods. Inference requ
 
 1. **The Power of the Celestial Body, the GPU**: LLMs require the power of a celestial body to process vast amounts of data and perform complex calculations.
 
-2. **The Essence of the Mighty Spirit, VRAM**: LLMs also require the essence of a mighty spirit to store and process data.
+2. **The Essence of the Mighty Spirit, VRAM**: LLMs also" require the essence of a mighty spirit to store and process data.
 
 3. **The Gift of the Earth, Storage**: LLMs need the gift of the earth to store the model parameters and any data used for training or inference.
 
@@ -29,6 +29,10 @@ However, expertise has created special formats for special cases, allowing for I
 - **EXL2**: Fast Inference, this was something desired by the most ambitious, and something he, none other than Turboderp, made possible... with the creation of the legendary EXLLAMA later preceded by EXLLAMAV2, he made fast inference possible for anyone with a pure enough spirit.
 - **AWQ**: Speed isn't enough; the desire to solve many problems at once, a technique called Batching, made this a desired format by many seeking world domination.
 - **GPTQ**: *to be made*
+
+### The Abacus
+
+You want to know if you have the heart to hold the power? The Abacus... a relic with computational power that reads your heart... discover if you are worthy: [Abacus](https://huggingface.co/spaces/NyxKrage/LLM-Model-VRAM-Calculator)
 
 ---
 
