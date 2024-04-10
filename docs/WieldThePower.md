@@ -1,4 +1,4 @@
-[<-](https://github.com/pandora-s-git/LLM-Scrolls/tree/main/docs/TheLegend.md)
+# [<-](https://github.com/pandora-s-git/LLM-Scrolls/tree/main/docs/TheLegend.md)
 # Wield The Power
 
 In the mythical realm of Large Language Models, not just any mortal can harness their full potential. It requires ancient knowledge, powerful resources, and sacred tools to control these formidable AI beings. Here, we shall explore the legendary ways to summon LLMs, the mystical artifacts and resources required, and the arcane art of Inference.

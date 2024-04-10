@@ -1,4 +1,4 @@
-[<-](https://github.com/pandora-s-git/LLM-Scrolls/tree/main/docs/TheLegend.md)
+# [<-](https://github.com/pandora-s-git/LLM-Scrolls/tree/main/docs/TheLegend.md)
 # Nothing more than a huge library...
 
 - [Attention is All You Need](https://arxiv.org/abs/1706.03762)

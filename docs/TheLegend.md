@@ -1,4 +1,4 @@
-[<-](https://github.com/pandora-s-git/LLM-Scrolls/tree/main/README.md)
+# [<-](https://github.com/pandora-s-git/LLM-Scrolls/tree/main/README.md)
 # The Legend that must be told.
 
 ## It was... oh yes... back in the beginning of the 20th century...
