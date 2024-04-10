@@ -1,0 +1,1 @@
+[<-](https://github.com/pandora-s-git/LLM-Scrolls/tree/main/docs/TheLegend.md)

@@ -1,3 +1,4 @@
+[<-](https://github.com/pandora-s-git/LLM-Scrolls/tree/main/docs/TheLegend.md)
 # Wield The Power
 
 In the mythical realm of Large Language Models, not just any mortal can harness their full potential. It requires ancient knowledge, powerful resources, and sacred tools to control these formidable AI beings. Here, we shall explore the legendary ways to summon LLMs, the mystical artifacts and resources required, and the arcane art of Inference.
@@ -33,6 +34,9 @@ However, expertise has created special formats for special cases, allowing for I
 ### The Abacus
 
 You want to know if you have the heart to hold the power? The Abacus... a relic with computational power that reads your heart... discover if you are worthy: [Abacus](https://huggingface.co/spaces/NyxKrage/LLM-Model-VRAM-Calculator)
+
+### References
+
 
 ---
 
