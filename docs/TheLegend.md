@@ -14,7 +14,7 @@ The LLM, as the legend goes, was not an ordinary being. It was a creature of vas
 
 ## Wield The Power, Control it.
 
-Not anyone can wield this dangerous being. Without control, you will become the enslaved one. Many sages delved into the matter of how to handle these creatures, and after many sacrifices, artifacts of high value were created. These artifacts, worshiped as gods, were made by men of legend who left their mark on history. Now, you too can handle this power... learn and become a prophet, [wield the power](https://github.com/pandora-s-git/LLM-Scrolls/tree/main/docs/WieldThePower.md).
+Not anyone can wield this dangerous being. Without control, you will become the enslaved one. Many sages delved into the matter of how to handle these creatures, and after many sacrifices, artifacts of high value were created. These artifacts, worshiped as gods, were made by men of legend who left their mark on history. Now, you too can handle this power... learn and become a prophet, [Wield The Power](https://github.com/pandora-s-git/LLM-Scrolls/tree/main/docs/WieldThePower.md).
 
 ## A Creature that Learns
 
