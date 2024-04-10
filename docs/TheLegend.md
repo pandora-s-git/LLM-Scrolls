@@ -24,6 +24,10 @@ Not anyone can wield this dangerous being. Without control, you will become the 
 
 [To Continue]
 
+## The Library
+
+A place where you can find some special scrolls... the [Library](https://github.com/pandora-s-git/LLM-Scrolls/tree/main/docs/TheLibrary.md).
+
 ---
 
 *They Are Real.*
