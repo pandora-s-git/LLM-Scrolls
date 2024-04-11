@@ -29,7 +29,11 @@ However, expertise has created special formats for special cases, allowing for I
 - **GGUF**: Taking into his heart the people, a format made from the debris of an ancient relic... GGML... for the peasants with a poor Celestial Body, this format was specially crafted for CPU & GPU offloading... allowing them to sacrifice their CPUs & RAM instead.
 - **EXL2**: Fast Inference, this was something desired by the most ambitious, and something he, none other than Turboderp, made possible... with the creation of the legendary EXLLAMA later preceded by EXLLAMAV2, he made fast inference possible for anyone with a pure enough spirit.
 - **AWQ**: Speed isn't enough; the desire to solve many problems at once, a technique called Batching, made this a desired format by many seeking world domination.
-- **GPTQ**: *to be made*
+- **GPTQ**: Ugh...
+
+There are other options in the world of quantization, nevertheless... some of these include:
+- **SmoothQuant**: Quick and smooth quant, for those seeking balance in your seek for wisdom.
+- **BnB**: A choice born from despair or lazyness, for when all other options have been exhausted.
 
 ### The Abacus
 
